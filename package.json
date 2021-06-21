@@ -1,5 +1,5 @@
 {
-  "name": "minecraft-ping-js",
+  "name": "minecraft-ping-ts",
   "version": "1.0.2",
   "description": "Ping Minecraft Servers",
   "main": "index.js",

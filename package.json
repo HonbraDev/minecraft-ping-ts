@@ -1,6 +1,6 @@
 {
   "name": "minecraft-ping-ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ping Minecraft Servers",
   "main": "index.js",
   "scripts": {
